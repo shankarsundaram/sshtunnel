@@ -1,0 +1,14 @@
+ssh_hostname: ""
+ssh_port: 22
+ssh_username: root
+ssh_password: ""
+ssh_private_key: ""
+
+database:
+  atp_hostname: MyApp
+  atp_port: 1522
+  atp_wallet_path: ""
+  atp_wallet_name: ""
+  atp_username: admin
+  atp_password: ""
+
