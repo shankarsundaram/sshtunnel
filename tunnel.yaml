@@ -3,7 +3,6 @@ ssh_port: 22
 ssh_username: root
 ssh_password: ""
 ssh_private_key: ""
-
 database:
   atp_hostname: MyApp
   atp_port: 1522
